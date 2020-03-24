@@ -6,6 +6,6 @@ Open the sort.py file from your terminal along with one argument - this will be 
 
 Inside the newly created folder in the hard drive, the script will create two folders - one for 'Canon' and one for 'iPhone'; this is so that videos shot with your iPhone are moved to one folder, and ones shot with the camera are moved to another. 
 
--- can also modify script to sort drone footage 
+-- can also modify script to sort drone footage --
 
 A prompt shows up on the terminal asking you to confirm that you've moved all your raw footage into the new folder. Once done, it'll sort your files into respective folders for you.
