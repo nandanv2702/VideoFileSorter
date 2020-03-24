@@ -9,3 +9,5 @@ Inside the newly created folder in the hard drive, the script will create two fo
 -- can also modify script to sort drone footage --
 
 A prompt shows up on the terminal asking you to confirm that you've moved all your raw footage into the new folder. Once done, it'll sort your files into respective folders for you.
+
+Note --> it is important that you change your directory to the desktop befroe using this, else it might not work properly!
